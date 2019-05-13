@@ -1,6 +1,7 @@
 # c-Scaneer
 this is scanner for compiler written in c++ that useses c++ regular expersion made by principles of oop like classes and headers
 the language specification 
+the application can read from file or from consol line by line
 Lexical Considerations
 1) Keywords: The following are keywords.
 int, if.while,print, read,return, true , false

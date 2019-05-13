@@ -1,8 +1,11 @@
 # c-Scaneer
 this is scanner for compiler written in c++ that useses c++ regular expersion made by principles of oop like classes and headers
 the language specification 
-the application can read from file or from consol line by line
+
+ the application can read from file or from consol line by line
+
 Lexical Considerations
+
 1) Keywords: The following are keywords.
 int, if.while,print, read,return, true , false
 They are all reserved, which means they cannot be used as identifiers
@@ -14,8 +17,13 @@ otherwise; they are ignored.
 digit⟶ [-]?[0-9]+
 6) Constant [1-9][0-9] *| 0
 7) Operators and punctuation characters used by the language includes:
-= == ===
-+ - * !=
+=
+==
+===
++ 
+- 
+*
+!=
 ! ; , [ ] ( ) { }
 8) Comments are discarded.
 a. A single line comment is started by<!--.*-> and extends to the end of

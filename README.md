@@ -14,7 +14,7 @@ digit⟶ [-]?[0-9]+
 6) Constant [1-9][0-9] *| 0
 7) Operators and punctuation characters used by the language includes:
 = == ===
-+ - * /!=
++ - * !=
 ! ; , [ ] ( ) { }
 8) Comments are discarded.
 a. A single line comment is started by<!--.*-> and extends to the end of

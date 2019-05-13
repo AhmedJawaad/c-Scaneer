@@ -1,0 +1,4 @@
+<!--hello Ahmed -->
+/*multi*/
+Aaa=10;
+int x;
